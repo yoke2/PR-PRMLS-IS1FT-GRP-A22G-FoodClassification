@@ -7,10 +7,13 @@ jupyter==1.0.0
 jupyter-client==5.3.1
 jupyter-console==5.2.0
 jupyter-core==4.5.0
+keras-rectified-adam==0.17.0
 matplotlib==3.0.3
 matplotlib-venn==0.11.5
 mesh-tensorflow==0.0.5
 numpy==1.16.5
+opencv-contrib-python==3.4.3.18
+opencv-python==3.4.5.20
 pandas==0.24.2
 pandas-datareader==0.7.4
 pandas-gbq==0.4.1
@@ -29,3 +32,4 @@ tensorflow-gpu==2.0.0b1
 tensorflow-hub==0.6.0
 tensorflow-metadata==0.14.0
 tensorflow-probability==0.7.0
+xgboost==0.90
