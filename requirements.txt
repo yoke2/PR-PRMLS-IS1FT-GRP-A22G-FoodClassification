@@ -26,7 +26,7 @@ pydotplus==2.0.2
 scikit-learn==0.21.3
 scikit-plot==0.3.7
 sklearn-pandas==1.8.0
-tensorflow==1.14.0
+tensorflow==1.15.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==2.0.0b1
 tensorflow-hub==0.6.0
