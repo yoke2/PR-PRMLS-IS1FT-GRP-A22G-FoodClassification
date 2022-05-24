@@ -28,7 +28,7 @@ scikit-plot==0.3.7
 sklearn-pandas==1.8.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==2.0.0b1
+tensorflow-gpu==2.6.4
 tensorflow-hub==0.6.0
 tensorflow-metadata==0.14.0
 tensorflow-probability==0.7.0
